@@ -38,6 +38,10 @@ The most common blood types are B+ O- O+
 
 ### Conclusion
 
-6
+Interventions for Arthritis and diabetes management including lifestyle modification programs and regular monitoring to be implemented.
+Follow up care of Asthma management programs to be developed
+
+
+
 
 
