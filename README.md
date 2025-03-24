@@ -6,7 +6,7 @@ An in-depth Analysis of healthcare data highlighting key insights and recommenda
 
 #### Dataset: [https://t.co/gGVSf5Pjbm]
 
-#### Dashboard :link and screenshot
+![image_alt](https://github.com/MsCorlette/Healthcare-Analysis/blob/2b6d2a2703adbf9f2df6d26f65be35d4541bcc69/healthcare_%20github.pdf)
 
 ### Data Cleaning Process:
 
