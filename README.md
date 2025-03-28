@@ -12,7 +12,11 @@ Data Visualisation: Power BI
 
 #### Dataset: [https://t.co/gGVSf5Pjbm]
 
-![image_alt](https://github.com/MsCorlette/Healthcare-Analysis/blob/2b6d2a2703adbf9f2df6d26f65be35d4541bcc69/healthcare_%20github.pdf)
+### Dashboard Report
+
+View the full dashboard report here:
+
+https://github.com/MsCorlette/Healthcare-Analysis/blob/main/healthcare_%20github.pdf
 
 ### Data Cleaning Process:
 
